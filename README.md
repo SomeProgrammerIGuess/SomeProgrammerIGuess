@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SomeProgrammerIGuess
 - 👀 I’m interested in ... Computer programming
-- 🌱 I’m currently learning ... Python launguage
+- 🌱 I’m currently learning ... Python language
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...crfolk11@icloud.com
 
